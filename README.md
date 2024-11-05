@@ -64,3 +64,20 @@ Therefore, as a key member of the Networks Team, you have been tasked to design 
 ## Network Topology Created
 
 The network topology below satisfy the user requirements above and everything is verified, tested and working fine.
+
+### Config Steps
+
+0. Network Design and beautification.
+1. Basic settings to all devices + SSH + Standard ACL for SSH.
+2. VLAN assignment plus all access and trunk ports on 12 and 13 switches.
+3. 1. STP Portfast and BPDUguard configs on all access ports.
+4. EtherChannel
+5. Subnetting and IP addressing
+6. HSRP and Inter-VLAN routing on the 13 switches plus ip dhcp helper addresses.
+7. Static IP address to DMZ/server farm devices.
+8. DHCP server device configurations.
+9. OSPF on the firewall, routers, and switches.
+10. Firewall interface security zones and levels
+11. Firewall inspection policy configuration 11. Wireless network configurations
+12. VoIP Configs
+13. Verifying and testing configurations.

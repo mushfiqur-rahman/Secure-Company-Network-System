@@ -64,7 +64,7 @@ Therefore, as a key member of the Networks Team, you have been tasked to design 
 ## Network Topology Created
 
 The network topology below satisfy the user requirements above and everything is verified, tested and working fine.
-![Company Network System](https://github.com/user-attachments/assets/a9904dc0-034d-4897-af53-4021b35d7bd9)
+![Company Network System](https://github.com/user-attachments/assets/852fb7af-e8b3-4f57-8cbf-7b1ed39b33d1)
 
 ### Config Steps
 
